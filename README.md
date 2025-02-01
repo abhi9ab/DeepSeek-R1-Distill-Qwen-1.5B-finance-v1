@@ -58,6 +58,6 @@ cd DeepSeek-R1-Distill-Qwen-1.5B-Finance-v1
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/abhi9ab/DeepSeek-R1-Distill-Qwen-1.5B-finance-v1/blob/main/LICENSE)
 
 ---
