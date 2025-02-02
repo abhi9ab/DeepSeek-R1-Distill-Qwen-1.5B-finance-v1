@@ -11,7 +11,7 @@
 - Fine-Tuned Model: DeepSeek-R1-Distill-Qwen-1.5B-Finance-v1
 - Dataset: Josephgflowers/Finance-Instruct-500k (reduced to 5k JSONL entries)
 - Platform: Free-tier Google Colab
-- Library: Hugging Face Transformers
+- Libraries: Hugging Face Transformers, Unsloth, Weights and Biases (wandb)
 
 ---
 
@@ -34,6 +34,8 @@ The model was fine-tuned on a subset of the Finance-Instruct-500k dataset from H
 - Hugging Face Transformers library
 - Google Colab (for free-tier usage)
 - PyTorch
+- Unsloth
+- Weights and Biases (wandb)
 
 ---
 
